@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LearnSpringApplication<learn-spring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.learnspring.learnspring.LearnSpringApplication",
+            "projectName": "learn-spring",
+            "args": ""
+        }
+    ]
+}
