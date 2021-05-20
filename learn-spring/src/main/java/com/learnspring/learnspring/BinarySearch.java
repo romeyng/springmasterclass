@@ -11,11 +11,7 @@ public class BinarySearch {
 	@Autowired
 	private SortAlg sortAlg;
 
-	public BinarySearch(SortAlg sortAlg){
-		super();
-		this.sortAlg = sortAlg;
-	}
-
+	
 	public int binarySearch(int[] numbers, int searchnum ) {
 
 
